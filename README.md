@@ -23,3 +23,8 @@ The program will start, and you’ll see detailed logs of the execution steps.
 To run without logs, change log level from INFO to WARN.
 
 ![image](https://github.com/user-attachments/assets/a63364bd-51f1-410c-94be-438769a8f379)
+
+----
+
+### Reference
+Project derived from learnings from my reading of *Game Engine Architecture* 3rd Ed. By Jason Gregory, Chapter 4.
