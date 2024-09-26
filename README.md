@@ -13,7 +13,9 @@ This program is designed to model simple implicit parallelism using Python's `co
 - The chunk sums are then combined to form the total sum.
 
 ## Running the program:
-Run the script in `testingParallelism.py` using Python:
+Run the .sln file in Visual Studio (2022), or
+
+Install the dependencies and run the script in `testingParallelism.py` using Python cmd:
 `python thread_test.py`
 
 The program will start, and you’ll see detailed logs of the execution steps.
